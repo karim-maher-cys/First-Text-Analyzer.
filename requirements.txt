@@ -1,0 +1,7 @@
+streamlit
+pandas
+transformers
+torch
+presidio-analyzer
+presidio-anonymizer
+spacy
